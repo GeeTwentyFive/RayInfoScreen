@@ -1,6 +1,6 @@
 For [raylib](https://github.com/raysan5/raylib).
 
-Displays info screen independent of drawing loop or rest of program.
+Displays info screen independent of drawing loop and rest of program.
 
 Usage: `int RayInfoScreen(char *text)`
 
